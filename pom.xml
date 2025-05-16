@@ -35,7 +35,7 @@
 <configuration>
 <archive>
 <manifest>
-<mainClass>prgm.App</mainClass> <!-- 👈 Change to your
+<mainClass>pgm10.pgm10.App</mainClass> <!-- 👈 Change to your
 actual main class -->
 </manifest>
 </archive>
